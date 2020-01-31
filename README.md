@@ -53,8 +53,8 @@ Its objective was to have a robust fault-tolerant system, both human and hardwar
 _this is cursive_
 
 
-
-*git config --global user.email miguelsalvgomez@gmail.com
+```java
+git config --global user.email miguelsalvgomez@gmail.com
 
 git init index.html
 
@@ -64,7 +64,9 @@ git clone alex@93.188.160.58:/path/to/repository
 
 git commit –m “Cambie un boton”
 
-git log*
+git log
+
+```
 
 
 
