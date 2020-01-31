@@ -53,7 +53,7 @@ Its objective was to have a robust fault-tolerant system, both human and hardwar
 _this is cursive_
 
 
-```git
+```gitbahs
 git config --global user.email miguelsalvgomez@gmail.com
 
 git init index.html
