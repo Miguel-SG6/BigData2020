@@ -115,4 +115,19 @@ destino.
 - Miguel Salvador
 - Fernando Carvajal
 
+###Getting & knowing your data
 
+]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np"
+   ]
+  },
